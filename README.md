@@ -1,4 +1,4 @@
-# Animal Behavior Analyzer
+# Animal Behavior Analyzer App
 
 A Streamlit web application that uses **Google Gemini AI** to detect animals in images and analyze their behavior, emotional state, and activity level.
 This project combines **Generative AI** with **data visualization** to provide insights into animal behavior patterns.
