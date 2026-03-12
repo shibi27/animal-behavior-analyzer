@@ -1,22 +1,21 @@
-# animal-detection-
-# 🐾 Animal Behavior Analyzer
+# Animal Behavior Analyzer
 
 A Streamlit web application that uses **Google Gemini AI** to detect animals in images and analyze their behavior, emotional state, and activity level.
 This project combines **Generative AI** with **data visualization** to provide insights into animal behavior patterns.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📤 Upload animal images (`.jpg`, `.jpeg`, `.png`)
-* 🤖 Automatic detection of animal species
-* 🧠 Behavior and emotional cue analysis using **Gemini AI**
-* 📊 Activity level visualization (Low / Moderate / High)
-* 🌳 Environmental interaction insights
+*  Upload animal images (`.jpg`, `.jpeg`, `.png`)
+*  Automatic detection of animal species
+*  Behavior and emotional cue analysis using **Gemini AI**
+*  Activity level visualization (Low / Moderate / High)
+*  Environmental interaction insights
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 * **Frontend:** Streamlit
 * **AI Model:** Google Gemini 1.5 Pro
@@ -25,7 +24,7 @@ This project combines **Generative AI** with **data visualization** to provide i
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
 
@@ -56,7 +55,7 @@ This project combines **Generative AI** with **data visualization** to provide i
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User uploads an image of an animal.
 2. The image is analyzed by **Gemini 1.5 Pro**, prompted as a wildlife expert.
@@ -70,7 +69,7 @@ This project combines **Generative AI** with **data visualization** to provide i
 
 ---
 
-## 📊 Activity Level Detection Logic
+# Activity Level Detection Logic
 
 | Behavior Keywords          | Activity Level |
 | -------------------------- | -------------- |
@@ -80,7 +79,7 @@ This project combines **Generative AI** with **data visualization** to provide i
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 animal-behavior-analyzer/
@@ -93,14 +92,14 @@ animal-behavior-analyzer/
 
 ---
 
-## ⚙️ Example Output
+## Example Output
 
 After uploading an image, the app displays:
 
-* 🐾 **Detected Animal(s)**
-* 🧠 **Observed Behavior**
-* 💬 **Emotional Cues**
-* 🌳 **Environment Interaction**
-* 📊 **Activity Level Chart**
+* **Detected Animal(s)**
+* **Observed Behavior**
+* **Emotional Cues**
+* **Environment Interaction**
+* **Activity Level Chart**
 
 ---
